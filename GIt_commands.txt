@@ -1,0 +1,13 @@
+
+Task: Git installation
+Github account creation
+Git clone
+Git init
+Creating repo and adding files to it.
+
+
+	git init:- Used to create new empty repository.
+	git clone:- used to clone the repo to local files.
+	git add:- used to add the files to repo.
+	git commit:- used to commit the files.
+	git push:- used to push the files.
